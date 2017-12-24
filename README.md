@@ -71,14 +71,14 @@ _(highlited excercises are not yet done)_
 * *10.7* Controllo ordinamento in lista REC
 
 ## Group 11
-* *11.1* <mark>Stampa Numero Elementi Maggiori di …</mark>
-* *11.2* <mark>Stampa Primo Pari e Primo Dispari</mark>
-* *11.3* <mark>Cancella i Primi n Elementi</mark>
-* *11.4* <mark>Inserisci dopo Quarto</mark>
-* *11.5* <mark>Prodotto Elementi in un Intervallo</mark>
-* *11.6* <mark>Creazione di Lista Ordinata</mark>
-* *11.7* <mark>Fusione di due Liste Ordinate</mark>
-* *11.8* <mark>Inserimento Elementi Mancanti</mark>
+* *11.1* Stampa Numero Elementi Maggiori di …
+* *11.2* Stampa Primo Pari e Primo Dispari
+* *11.3* Cancella i Primi n Elementi
+* *11.4* Inserisci dopo Quarto
+* *11.5* Prodotto Elementi in un Intervallo
+* *11.6* Creazione di Lista Ordinata
+* *11.7* Fusione di due Liste Ordinate
+* *11.8* Inserimento Elementi Mancanti
 
 ## Group 12
 * *12.1* <mark>Ricerca in Alberi Binari di Ricerca</mark>
