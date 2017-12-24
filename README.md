@@ -3,6 +3,9 @@
 List of all exercieses:
 
 
+_(highlited excercises are not yet done)_
+
+
 ## Group 3
 * *3.1* Size of
 * *3.2* TempConverter
@@ -52,11 +55,11 @@ List of all exercieses:
 ## Group 9
 * *9.1* n-esimo Numero di Fibonacci
 * *9.2* Conta Occorrenze
-* *9.3* Reverse
-* *9.4* Palindroma
-* *9.5* Prima le Palindrome
-* *9.6* Str3cat
-* *9.7* Da Numero a Stringa
+* *9.3* <mark>Reverse</mark>
+* *9.4* <mark>Palindroma</mark>
+* *9.5* <mark>Prima le Palindrome</mark>
+* *9.6* <mark>Str3cat</mark>
+* *9.7* <mark>Da Numero a Stringa</mark>
 
 ## Group 10
 * *10.1* Potenze di due
@@ -68,22 +71,22 @@ List of all exercieses:
 * *10.7* Controllo ordinamento in lista REC
 
 ## Group 11
-* *11.1* Stampa Numero Elementi Maggiori di …
-* *11.2* Stampa Primo Pari e Primo Dispari
-* *11.3* Cancella i Primi n Elementi
-* *11.4* Inserisci dopo Quarto
-* *11.5* Prodotto Elementi in un Intervallo
-* *11.6* Creazione di Lista Ordinata
-* *11.7* Fusione di due Liste Ordinate
-* *11.8* Inserimento Elementi Mancanti
+* *11.1* <mark>Stampa Numero Elementi Maggiori di …</mark>
+* *11.2* <mark>Stampa Primo Pari e Primo Dispari</mark>
+* *11.3* <mark>Cancella i Primi n Elementi</mark>
+* *11.4* <mark>Inserisci dopo Quarto</mark>
+* *11.5* <mark>Prodotto Elementi in un Intervallo</mark>
+* *11.6* <mark>Creazione di Lista Ordinata</mark>
+* *11.7* <mark>Fusione di due Liste Ordinate</mark>
+* *11.8* <mark>Inserimento Elementi Mancanti</mark>
 
 ## Group 12
-* *12.1* Ricerca in Alberi Binari di Ricerca
-* *12.2* Visita in Alberi Binari di Ricerca
-* *12.3* Ordinamento in Alberi Binari di Ricerca
+* *12.1* <mark>Ricerca in Alberi Binari di Ricerca</mark>
+* *12.2* <mark>Visita in Alberi Binari di Ricerca</mark>
+* *12.3* <mark>Ordinamento in Alberi Binari di Ricerca</mark>
 
 ## Group 13
-* *13.1* My strlen
-* *13.2* My strcat 2
-* *13.3* My strcmp
-* *13.4* My strcpy
+* *13.1* <mark>My strlen</mark>
+* *13.2* <mark>My strcat 2</mark>
+* *13.3* <mark>My strcmp</mark>
+* *13.4* <mark>My strcpy</mark>
