@@ -55,11 +55,11 @@ List of all exercieses:
 ## Group 9
 * *9.1* n-esimo Numero di Fibonacci
 * *9.2* Conta Occorrenze
-* *9.3* <mark>Reverse</mark>
-* *9.4* <mark>Palindroma</mark>
-* *9.5* <mark>Prima le Palindrome</mark>
-* *9.6* <mark>Str3cat</mark>
-* *9.7* <mark>Da Numero a Stringa</mark>
+* *9.3* <mark> Reverse </mark>
+* *9.4* <mark> Palindroma </mark>
+* *9.5* <mark> Prima le Palindrome </mark>
+* *9.6* <mark> Str3cat </mark>
+* *9.7* <mark> Da Numero a Stringa </mark>
 
 ## Group 10
 * *10.1* Potenze di due
@@ -81,12 +81,12 @@ List of all exercieses:
 * *11.8* Inserimento Elementi Mancanti
 
 ## Group 12
-* *12.1* <mark>Ricerca in Alberi Binari di Ricerca</mark>
-* *12.2* <mark>Visita in Alberi Binari di Ricerca</mark>
-* *12.3* <mark>Ordinamento in Alberi Binari di Ricerca</mark>
+* *12.1* <mark> Ricerca in Alberi Binari di Ricerca </mark>
+* *12.2* <mark> Visita in Alberi Binari di Ricerca </mark>
+* *12.3* <mark> Ordinamento in Alberi Binari di Ricerca </mark>
 
 ## Group 13
-* *13.1* <mark>My strlen</mark>
-* *13.2* <mark>My strcat 2</mark>
-* *13.3* <mark>My strcmp</mark>
-* *13.4* <mark>My strcpy</mark>
+* *13.1* <mark> My strlen </mark>
+* *13.2* <mark> My strcat 2 </mark>
+* *13.3* <mark> My strcmp </mark>
+* *13.4* <mark> My strcpy </mark>
