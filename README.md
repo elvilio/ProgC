@@ -3,7 +3,7 @@
 List of all exercieses:
 
 
-_(highlited excercises are not yet done)_
+> Highlited excercises are not yet done.
 
 
 ## Group 3
