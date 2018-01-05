@@ -58,8 +58,8 @@ List of all exercieses:
 * *9.3* Reverse
 * *9.4* Palindroma
 * *9.5* Prima le Palindrome
-* *9.6* <mark> Str3cat </mark>
-* *9.7* <mark> Da Numero a Stringa </mark>
+* *9.6* Str3cat
+* *9.7* Da Numero a Stringa
 
 ## Group 10
 * *10.1* Potenze di due
